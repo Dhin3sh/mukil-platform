@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "products": [
+    { "id": "new-t", "name": "New-T", "category": "Small Business Management", "description": "Simplify daily business operations, sales, expenses, stock, and reporting.", "status": "available", "route": "/new-t/", "order": 10 },
+    { "id": "new-k", "name": "New-K", "category": "Tamil News & Audio", "description": "Generate Tamil news audio from text using an audio-generation workflow.", "status": "available", "route": "/new-k/", "order": 20 },
+    { "id": "lab-report-system", "name": "Lab Report System", "category": "Laboratory Management", "description": "Manage laboratory workflows and access the lab reporting application.", "status": "available", "route": "/lab-report-system/", "order": 30 },
+    { "id": "new-d", "name": "New-D", "category": "Video & Publishing", "description": "Video generation and publishing workflows.", "status": "coming_soon", "route": null, "order": 40 },
+    { "id": "new-n", "name": "New-N", "category": "News & Advertising", "description": "News distribution and advertising workflows.", "status": "coming_soon", "route": null, "order": 50 },
+    { "id": "new-r", "name": "New-R", "category": "Ledger & Finance", "description": "Ledger, accounting, and financial tracking tools.", "status": "coming_soon", "route": null, "order": 60 },
+    { "id": "new-i", "name": "New-I", "category": "School Management", "description": "School administration and management workflows.", "status": "coming_soon", "route": null, "order": 70 }
+  ]
+}

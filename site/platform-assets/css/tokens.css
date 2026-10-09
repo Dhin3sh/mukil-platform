@@ -1,0 +1,45 @@
+:root {
+  /* Colour */
+  --navy-900: #0f1b2d;
+  --navy-800: #172a45;
+  --paper: #f5f7fa;
+  --surface: #ffffff;
+  --line: #d3dbe7;
+  --line-strong: #aab7ca;
+  --text: #16233a;
+  --text-muted: #455670;
+  --text-on-dark: #e8eef7;
+  --text-muted-on-dark: #b4c2d8;
+  --accent: #0b7a75;
+  --accent-strong: #075b57;
+  --accent-soft: #e0f1ef;
+  --accent-on-dark: #62d4c9;
+  --focus: #1558c0;
+  --focus-on-dark: #ffd166;
+
+  /* Typography (system fonts only, no downloads) */
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --step--1: 0.875rem;
+  --step-0: 1rem;
+  --step-1: 1.125rem;
+  --step-2: clamp(1.375rem, 1.2rem + 0.8vw, 1.75rem);
+  --step-3: clamp(2.25rem, 1.5rem + 3.4vw, 4rem);
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2.5rem;
+  --space-7: 4rem;
+  --space-8: 6rem;
+
+  /* Shape */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --border: 1px solid var(--line);
+  --shadow-card: 0 1px 2px rgba(22, 35, 58, 0.08), 0 6px 16px rgba(22, 35, 58, 0.06);
+  --container: 68rem;
+}
